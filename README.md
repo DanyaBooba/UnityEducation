@@ -30,10 +30,10 @@
 
 Данный репозиторий, проект `dev.dybka.ru` и курсы на сайте `dev.dybka.ru` разрабатываются Дыбка Даниилом.
 
-- Сайт: (dybka.ru)[https://dybka.ru]
-- Телеграм: (@ddybka)[https://ddybka.t.me]
-- Вконтакте: (@ddybka)[https://vk.com/ddybka]
-- Почта: daniil@dybka.----------
+- Сайт: https://dybka.ru
+- Телеграм: https://ddybka.t.me
+- Вконтакте: https://vk.com/ddybka
+- Почта: daniil@dybka
 
 ## Открытая платформа
 
